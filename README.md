@@ -10,7 +10,7 @@ I'm a tech enthusiast with a background in Computer Science Engineering and hand
 
 🔧 **Currently Learning:**
 
-- ☁️ Cloud Platforms: AWS (EC2, S3, IAM, CloudWatch)
+- ☁️ Cloud Platforms: AWS (EC2, S3, IAM, CloudWatch), Azure
 - 🐳 Containerization: Docker, Kubernetes
 - 🔁 GitOps & CI/CD: ArgoCD, Tekton
 - 📊 Monitoring & Observability
@@ -21,8 +21,8 @@ I'm a tech enthusiast with a background in Computer Science Engineering and hand
 
 - **Languages:** Bash, Python (beginner), YAML
 - **Tools & Platforms:** Docker, Kubernetes (beginner), ArgoCD, Tekton, Git, Linux, Jenkins
-- **Cloud:** AWS (beginner)
-- **Monitoring:** Prometheus, Grafana (learning phase)
+- **Cloud:** AWS (beginner), Azure
+- **Monitoring:** Prometheus, Grafana (learning phase), Zabbix
 - **Version Control:** Git & GitHub
 
 ---
