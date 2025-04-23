@@ -30,7 +30,7 @@ I'm a tech enthusiast with a background in Computer Science Engineering and hand
 ### 📫 Let's Connect
 
 - 💼 [LinkedIn](https://www.linkedin.com/in/shuvam-karmakar-sk)
-- 🗂️ [Resume](https://drive.google.com/file/d/1Fsz8cIUYDeFWtcTK21_NHUysDIYWUQFh/view?usp=sharing)
+- 🗂️ [Resume](https://drive.google.com/file/d/1WZF9ej_iJqW2_5zEBc1Ft22j3k4wv873/view?usp=sharing)
 - ✉️ [Email](shuvamkarmakar06@gmail.com)
 
 ---
